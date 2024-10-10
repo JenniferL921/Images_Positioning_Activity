@@ -34,6 +34,10 @@ body,td,th {
 	width: 300px;
 	border-right-style: solid;
 	margin:0px .8em 0px 0px;}
+
+#scanner {
+	height: 50px;
+	width: 50px;}
 	
 #contact {
 	float: left;
