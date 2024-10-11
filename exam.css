@@ -70,7 +70,8 @@ body,td,th {
 	float: left;
 	width: 300px;
 	padding:1em;
-	margin:0px 1em 1em 0px;}
+	margin:0px 1em 1em 0px;
+	border: outset;}
 
 .heading {background-color: lightcoral;
 padding:.75em;
