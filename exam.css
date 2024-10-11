@@ -38,7 +38,9 @@ body,td,th {
 #scanner {
 	height: 100px;
 	width: 100px;
-	padding-left: 100px;}
+	display: block;
+	margin-left: auto;
+	margin-right: auto;}
 	
 #contact {
 	float: left;
@@ -49,8 +51,9 @@ body,td,th {
 #contactImage {
 	width: 100px;
 	height: 100px;
-	padding-left: 200px;
-	}
+	display: block;
+	margin-left: auto;
+	margin-right: auto;}
 	
 #picture {
 	float: left;
@@ -60,16 +63,14 @@ body,td,th {
 #compete {
 	clear:both;
 	width: 940px;
-	margin-top:3em!important;
-	}
+	margin-top:3em!important;}
 
 #looks {
 	background-color: lighsalmon;
 	float: left;
 	width: 300px;
 	padding:1em;
-	margin:0px 1em 1em 0px;
-}
+	margin:0px 1em 1em 0px;}
 
 .heading {background-color: lightcoral;
 padding:.75em;
