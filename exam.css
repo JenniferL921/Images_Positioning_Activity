@@ -37,8 +37,8 @@ body,td,th {
 	margin:0px .8em 0px 0px;}
 
 #scanner {
-	height: 200px;
-	width: 200px;
+	height: 150px;
+	width: 150px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;}
@@ -51,8 +51,8 @@ body,td,th {
 	margin:0px .8em 0px 0px;}
 
 #contactImage {
-	width: 30px;
-	height: 30px;
+	width: 50px;
+	height: 50px;
 	display: block;
 	margin-left: 100px;
 	margin-right: 100px;}
