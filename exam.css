@@ -84,7 +84,7 @@ text-align:center;}
 .align {text-align:center;}
 
 .steve {
-border: outset solid 1px;
+border: outset;
 padding:0px 2.5em 0px;
 width:500px;
 margin:0px auto
