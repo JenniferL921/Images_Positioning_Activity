@@ -45,6 +45,11 @@ body,td,th {
 	width: 300px;
 	border-right-style: solid;
 	margin:0px .8em 0px 0px;}
+
+#contact image{
+	width: 100px;
+	height: 100px;
+	padding-left: 300px;
 	
 #picture {
 	float: left;
